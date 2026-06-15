@@ -31,3 +31,17 @@ Assess third-party cybersecurity and operational risk for oil and gas vendors, i
 - Business continuity and disaster recovery evidence
 - Subcontractor controls
 
+# Vendor Cybersecurity Questionnaire
+
+| Question | Vendor Response | Evidence Requested |
+|---|---|---|
+| What services are provided? | | Contract/SOW |
+| Will the vendor access OT, SCADA, historian, or production systems? | | Architecture diagram |
+| Is MFA enforced for remote access? | | Policy or screenshot |
+| How are privileged accounts managed? | | Access control policy |
+| What data will be stored or processed? | | Data flow diagram |
+| Is customer data used to train AI models? | | AI/data use policy |
+| What is the incident notification timeframe? | | Contract clause |
+| Are backups tested? | | Test evidence |
+| Are subcontractors used? | | Subprocessor list |
+
