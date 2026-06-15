@@ -7,8 +7,6 @@ The GRC-Cybersecurity Portfolio demonstrates practical Governance, Risk, and Com
 ## Why This Project Is Useful
 
 This project serves as a practical reference for cybersecurity professionals, students, hiring managers, and organizations seeking examples of GRC documentation and cybersecurity program development. It demonstrates the application of industry-recognized frameworks such as NIST CSF 2.0, NIST AI RMF, and third-party risk management practices within critical infrastructure environments.
-# GRC-Cybersecurity Portfolio
-
 
 
 ## Projects
