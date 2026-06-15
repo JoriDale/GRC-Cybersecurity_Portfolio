@@ -1,3 +1,21 @@
+# Hi, I'm Jori Dale
+
+Cybersecurity professional focused on:
+
+- Governance, Risk & Compliance (GRC)
+- Information Security
+- Third-Party Risk Management
+- Security Awareness & Training
+- AI Governance
+- NIST CSF 2.0
+
+## Featured Projects
+
+- GRC Cybersecurity Portfolio
+- AI Governance Framework
+- Vendor Risk Assessment Program
+- Incident Response Plan
+
 # GRC-Cybersecurity_Portfolio
 A collection of Governance, Risk, and Compliance (GRC) cybersecurity projects focused on the Oil & Gas industry. Governance, Risk, and Compliance (GRC) cybersecurity portfolio showcasing AI governance, risk management, incident response, vendor security assessments, security awareness programs, and NIST CSF 2.0 implementation projects tailored for the Oil &amp; Gas industry.
 ## What This Project Does
